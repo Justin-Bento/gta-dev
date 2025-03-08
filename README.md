@@ -15,6 +15,7 @@ Contributions Welcome! If you know of a meetup or user group that isn't listed, 
 | [K8SUG Canada](https://www.meetup.com/k8s-ca/) | A Kubernetes user group in Canada that brings together cloud-native enthusiasts to share knowledge and best practices. |
 | [AI / Drupal Toronto](https://www.meetup.com/drupalto/) | A group focused on AI and Drupal development in Toronto, hosting technical talks and networking sessions. |
 | [Toronto Tech Stack Exchange](https://www.meetup.com/toronto-tech-stack-exchange/) | A community for discussing and learning about various tech stacks used in tech industry. |
+| [Toronto Area Security Klatch](https://www.task.to/) | A community for encouraging discussion and share expertise in understanding the latest trends and security threats facing computer networks, systems and data. |
 
 ## Others
 
